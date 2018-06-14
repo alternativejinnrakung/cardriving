@@ -1,0 +1,30 @@
+{
+    "Toyota": {
+        "type": "A",
+        "properties": {
+            "fuel": 100,
+            "size": "S"
+        }
+    },
+	"Mazda": {
+        "type": "B",
+        "properties": {
+            "fuel": 150,
+            "shape": "M"
+        }
+    },
+	"Toshiba": {
+        "type": "C",
+        "properties": {
+            "fuel": 200,
+            "shape": "L"
+        }
+    },
+	"Honda": {
+        "type": "D",
+        "properties": {
+            "fuel": 150,
+            "shape": "M"
+        }
+    }
+}
